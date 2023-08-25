@@ -1,9 +1,9 @@
 const cacheName = "MindVrAI-MindVrAI-1.0";
 const contentToCache = [
     "Build/WebBuild.loader.js",
-    "Build/WebBuild.framework.js",
-    "Build/WebBuild.data",
-    "Build/WebBuild.wasm",
+    "Build/98ec625dc0a4808f86d184c4e2fb8cba.js.unityweb",
+    "Build/c41b229ea48ad7b54859f7c2afd9853b.data.unityweb",
+    "Build/2d45afadd468639eea66ffa9e4b96dc4.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
